@@ -12,11 +12,11 @@ Guess the RGB Color-Code code by clicking on the correct color.
 - Hard: 6 optins
 
 ### Current State
-
 <img src="images/screenshot.png" width="600">
 
-### To-Do
-
-|priority|Description|
-----------------------
+###### To-Do
+- 6 options = medium
+- 9 options = hard
+- 16 options = god-mode
+- ⚠️beautify⚠️
 
