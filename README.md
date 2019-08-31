@@ -15,5 +15,5 @@ Guess the RGB Color-Code code by clicking on the correct color.
 
 ### Current State
 
-![](images/screenshot.png)
+![](images/screenshot.png | width = 500)
 
